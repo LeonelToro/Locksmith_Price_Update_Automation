@@ -26,7 +26,7 @@ The ETL process in this project involves four main steps:
 - Updated prices are loaded into the file without losing the original format.
 
 ## 📊 Project Preview  
-![Script Screenshot](script_screenshot.png)
+![Script Screenshot](pythonscript_screenshot.png)
 
 ---
 
@@ -58,4 +58,4 @@ El proceso de ETL en este proyecto involucra cuatro pasos principales:
 - Los precios actualizados se cargan en el archivo sin perder el formato original.
 
 ## 📊 Vista Previa del Proyecto  
-![Captura de Pantalla del Script](script_screenshot.png) 
+![Captura de Pantalla del Script](pythonscript_screenshot.png) 
