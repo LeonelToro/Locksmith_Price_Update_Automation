@@ -58,4 +58,4 @@ El proceso de ETL en este proyecto involucra cuatro pasos principales:
 - Los precios actualizados se cargan en el archivo sin perder el formato original.
 
 ## 📊 Vista Previa del Proyecto  
-![Captura de Pantalla del Script](script_screenshot.png)
+![Captura de Pantalla del Script](script_screenshot.png) 
